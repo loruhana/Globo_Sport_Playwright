@@ -84,7 +84,7 @@ Este projeto utiliza o padrão Page Object Model (POM), que é uma prática de d
 Este seletor foi escolhido porque representa diretamente o conteúdo principal da reportagem. Esse elemento engloba todo o texto da matéria, garantindo que, ao acessar uma notícia, o usuário está sendo redirecionado corretamente para a página que contém o corpo completo da reportagem, atendendo ao objetivo do desafio.
 
 ### Seletor `//div[@class="feed-post-body"]`
-Este seletor foi escolhido porque representa a estrutura completa de cada notícia exibida na página. Esse elemento agrupa de forma consistente os principais componentes de uma notícia (imagem, título e resumo), permitindo uma contagem precisa que reflete a quantidade de notícias visíveis para o usuário. Isso garante uma validação robusta e alinhada à experiência real do usuário na interface.
+Este seletor foi escolhido porque representa a estrutura completa de cada notícia exibida na página. Esse elemento agrupa de forma consistente os principais componentes de uma notícia (imagem, título e resumo), permitindo uma contagem precisa que reflete a quantidade de notícias visíveis para o usuário. Isso garante uma validação robusta e alinhada à experiência real do usuário na interface..
 
 ## Dependências
 
