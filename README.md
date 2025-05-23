@@ -96,7 +96,7 @@ Este seletor foi escolhido porque representa a estrutura completa de cada notíc
 
 1. Clone o repositório:
 ```bash
-git clone 
+git clone https://github.com/loruhana/Globo_Sport_Playwright.git
 cd playwright-ge-globo
 ```
 
